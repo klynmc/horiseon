@@ -8,7 +8,7 @@ A website for a social media marketing agency
 * CSS
 
 ## Website
-*(enter website link here)*
+https://klynmc.github.io/horiseon/Develop/
 
 ## Contribution
 Refractored with ❤️ by Leigha McKay
